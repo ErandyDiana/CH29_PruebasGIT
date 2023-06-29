@@ -5,6 +5,6 @@
 
 1. Se crea el repossitorio en la cuenta GitGHub.com
 2. Se clona el repositorio mediante ssh de forma local `git clone [ur]`
-3. Se modifican los archivo
-
+3. Se modifican los archivos
+4. Se agregan los archivos al area de preparación `git status`
 --- 
